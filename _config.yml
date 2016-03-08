@@ -1,0 +1,28 @@
+name: BdG
+favicon: null
+layout_spectrum: 0.5552646049764007
+typography_spectrum: 0.1376397544518113
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.14597172127105296
+  lightness: 0.26735765277408063
+  saturation: 0.3134160393383354
+  rhythmicContrast: 0.1164821102283895
+purpose: []
