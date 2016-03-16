@@ -4,7 +4,7 @@
         <description><![CDATA[Alchemie Cocktail Bar - Island of Ischia - By of Naples - Italy]]></description>
         <link>https://thegrid.ai/bdg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 16:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 16:24:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bdg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/bdg/9b463ba3-e266-432e-86c2-3169a91e566a/index.html</link>
             <guid isPermaLink="false">9b463ba3-e266-432e-86c2-3169a91e566a</guid>
             <pubDate>Wed, 16 Mar 2016 16:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Martini Cocktail]]></title>
-            <description><![CDATA[<h1>Martini Cocktail</h1>]]></description>
-            <link>https://thegrid.ai/bdg/martini-cocktail/index.html</link>
-            <guid isPermaLink="false">45a5878a-f1d6-4fb9-b9eb-41585e8888a9</guid>
-            <pubDate>Tue, 08 Mar 2016 23:23:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
